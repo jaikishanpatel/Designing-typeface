@@ -516,5 +516,25 @@ nine
 `
 
 ### Before Exporting for the first time
-- Remove Overlap: Filter > Remove Overlap (Commond + Shift + O)
-- Correct Path Direction: Paths > Correct Path Direction (Commond + Shift + R)
+- Remove Overlap: Filter > Remove Overlap (Command + Shift + O)
+- Correct Path Direction: Paths > Correct Path Direction (Command + Shift + R)
+
+### Images
+Promotion and feature posters for the font
+
+#### Poster Print
+A3 - 297x420mm
+#### Poster web 
+1 Square + 1 from any Wide
+
+#### Feature images
+Minimum 5 - Square + Wide
+All Glyphs in lowercase
+All Glyphs in UPPERCASE
+Special Characters
+
+Base Square   : 1920x1920px / 1280x1280px
+Ultra Wide    : 1920x960px / 1280x640px 
+Extra Wide    : 1920x1080px / 1280x720px
+Regular Wide  : 1920x1200px / 1280x800px
+
