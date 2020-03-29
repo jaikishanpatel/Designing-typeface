@@ -519,6 +519,9 @@ nine
 - Remove Overlap: Filter > Remove Overlap (Command + Shift + O)
 - Correct Path Direction: Paths > Correct Path Direction (Command + Shift + R)
 
+## Useful when Interpolating
+- Clean up Paths: Paths > Tidy Up Paths (Command + Option + Shift + T)
+
 ## Images
 Promotion and feature posters for the font
 
