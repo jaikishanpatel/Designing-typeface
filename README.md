@@ -516,8 +516,9 @@ nine
 `
 
 ## Before Exporting for the first time
-- Remove Overlap: Filter > Remove Overlap (Command + Shift + O)
-- Correct Path Direction: Paths > Correct Path Direction (Command + Shift + R)
+- Remove Overlap: Filter > Remove Overlap (Cmd + Shift + O)
+- Correct Path Direction: Paths > Correct Path Direction (Cmd + Shift + R)
+- Correct all dependent glyphs spacing: Glyph > Update Metrics (Ctrl + option + Cmd + M)
 
 ## Useful when Interpolating
 - Clean up Paths: Paths > Tidy Up Paths (Command + Option + Shift + T)
