@@ -515,6 +515,16 @@ eight
 nine
 `
 
+## Glyphs Check
+- Alternate diacritic (caron.alt) for Lcaron, lcaron, dcaron, and tcaron 
+
+## Kerning Groups
+
+This link https://glyphsapp.com/tutorials/kerning covers the logic that supports it as well as the way to administrate it. This script https://github.com/schriftgestalt/Glyphs-Scripts/blob/master/Metrics%20%26%20Classes/set%20Kerning%20Groups.py would help to set a base that includes the most used groups.
+- Put the Scripts in : Script > Open Scripts Folder
+- Scripts > Set Kerning Groups
+- Scripts > Run: Set Kerning Groups (Option + Command + R)
+
 ## Before Exporting for the first time
 - Remove Overlap: Filter > Remove Overlap (Cmd + Shift + O)
 - Correct Path Direction: Paths > Correct Path Direction (Cmd + Shift + R)
