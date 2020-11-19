@@ -533,6 +533,19 @@ This link https://glyphsapp.com/tutorials/kerning covers the logic that supports
 ## Useful when Interpolating
 - Clean up Paths: Paths > Tidy Up Paths (Command + Option + Shift + T)
 
+## Glyphs Check
+
+### Alternate diacritic
+- Lcaron 
+- lcaron 
+- dcaron
+- tcaron
+
+### Weight Check
+- copyright
+- registered
+- trademark
+
 ## Images
 Promotion and feature posters for the font
 
