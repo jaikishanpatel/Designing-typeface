@@ -536,6 +536,7 @@ This link https://glyphsapp.com/tutorials/kerning covers the logic that supports
 ## Glyphs Check
 
 ### Alternate diacritic
+Replace caron with apostrophemod for the glyphs below
 - Lcaron 
 - lcaron 
 - dcaron
