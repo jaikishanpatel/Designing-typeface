@@ -521,6 +521,10 @@ nine
 ## Axes
 - Axes parameter in Font Info > Font, choose Weight and Width (predefined options), then take care of the settings in Font Info > Masters and Font Info > Instances.
 
+## How to install scripts to GlyphsApp
+https://github.com/mekkablue/Glyphs-Scripts
+https://www.youtube.com/watch?v=Q6ly16Q0BmE
+
 ## Kerning Groups
 
 This link https://glyphsapp.com/tutorials/kerning covers the logic that supports it as well as the way to administrate it. This script https://github.com/schriftgestalt/Glyphs-Scripts/blob/master/Metrics%20%26%20Classes/set%20Kerning%20Groups.py would help to set a base that includes the most used groups.
