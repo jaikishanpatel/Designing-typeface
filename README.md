@@ -557,6 +557,12 @@ Replace caron with apostrophemod for the glyphs below
 - registered
 - trademark
 
+## Variable font testing
+https://fontgauntlet.com/
+https://wakamaifondue.com/
+https://www.axis-praxis.org/specimens/
+https://fontdrop.info/
+
 ## Images
 Promotion and feature posters for the font
 
