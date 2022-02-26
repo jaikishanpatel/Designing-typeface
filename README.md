@@ -522,6 +522,9 @@ nine
 - Axes parameter in Font Info > Font, choose Weight and Width (predefined options), then take care of the settings in Font Info > Masters and Font Info > Instances.
 
 ## How to install scripts to GlyphsApp
+- Copy the scripts git clone path
+- paste into terminal (if there are multiple Glyphs software installed; Glyphs1, 2, 3 etc, then in terminal check the path name correctly. for example if the folder name is 'Glyphs 3' (with space), in the terminal, it should be 'Glyphs\ 3' (for Mac users)
+
 https://github.com/mekkablue/Glyphs-Scripts
 https://www.youtube.com/watch?v=Q6ly16Q0BmE
 
