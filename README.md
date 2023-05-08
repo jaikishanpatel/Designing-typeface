@@ -558,10 +558,16 @@ Replace caron with apostrophemod for the glyphs below
 - trademark
 
 ## Variable font testing
+
+### Latin
 - https://fontgauntlet.com/
 - https://wakamaifondue.com/
 - https://www.axis-praxis.org/specimens/
 - https://fontdrop.info/
+
+### Devanagari
+- https://www.motaitalic.com/tools/devanagari-font-tester/
+- https://www.impallari.com/testing/index.php
 
 ## Images
 Promotion and feature posters for the font
