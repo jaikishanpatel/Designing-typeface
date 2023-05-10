@@ -531,7 +531,8 @@ https://www.youtube.com/watch?v=Q6ly16Q0BmE
 ## Kerning Groups
 
 This link https://glyphsapp.com/tutorials/kerning covers the logic that supports it as well as the way to administrate it. This script https://github.com/schriftgestalt/Glyphs-Scripts/blob/master/Metrics%20%26%20Classes/set%20Kerning%20Groups.py would help to set a base that includes the most used groups.
-- Put the Scripts in : Script > Open Scripts Folder
+- Put the Scripts in : Script > Open Scripts Folder > Add script files to the folder
+- Restart GlyphsApp
 - Scripts > Set Kerning Groups
 - Scripts > Run: Set Kerning Groups (Option + Command + R)
 
