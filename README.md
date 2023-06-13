@@ -558,6 +558,9 @@ Replace caron with apostrophemod for the glyphs below
 - registered
 - trademark
 
+## Type design Resources
+http://rosaliewagner.com/type-links/
+
 ## Variable font testing
 
 ### Latin
