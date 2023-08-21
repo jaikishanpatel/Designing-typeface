@@ -572,6 +572,7 @@ http://rosaliewagner.com/type-links/
 ### Devanagari
 - https://www.motaitalic.com/tools/devanagari-font-tester/
 - https://www.impallari.com/testing/index.php
+- https://universalspecimen.rosettatype.com/
 
 ## Images
 Promotion and feature posters for the font
