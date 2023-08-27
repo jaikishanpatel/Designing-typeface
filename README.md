@@ -564,13 +564,13 @@ http://rosaliewagner.com/type-links/
 ## Variable font testing
 
 ### Latin
-- https://fontgauntlet.com/
-- https://wakamaifondue.com/
+- https://fontgauntlet.com/ (font test, variables)
+- https://wakamaifondue.com/ (font features)
+- https://fontdrop.info/ (font info, language support info)
 - https://www.axis-praxis.org/specimens/
-- https://fontdrop.info/
 
 ### Devanagari
-- https://www.motaitalic.com/tools/devanagari-font-tester/
+- https://www.motaitalic.com/tools/devanagari-font-tester/ (font test devanagari)
 - https://www.impallari.com/testing/index.php
 - https://universalspecimen.rosettatype.com/
 
