@@ -1,4 +1,4 @@
-# Designing-typeface
+# Typeface Design and publication process
 Steps to follow while designing a new Typeface
 
 
